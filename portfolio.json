@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "projectId": "online-book-store",
+  "name": "Online Book Store",
+  "publicShowcase": true,
+  "presentationOwner": "Jelvan R.",
+  "unaffiliatedPublication": true,
+  "documentationOnly": true,
+  "sourceCodeIncluded": false,
+  "productionEquivalent": false,
+  "ndaAdapted": true,
+  "lastReviewed": "2026-10-20",
+  "verifiedStatus": "No matching original source repository was positively verified in connected GitHub accounts; all product features below are illustrative scope, NOT confirmed implementations.",
+  "portfolio": {
+    "section": "Projects / Apps",
+    "portfolioHome": "https://portfolio.jelvan.pro",
+    "viewerModes": {
+      "macos": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "web": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "ios": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "android": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      }
+    },
+    "showUrlInViewer": false,
+    "allowOpenExternal": false,
+    "allowCopyUrl": false,
+    "previewFallback": "approved-local-screenshot-or-explanatory-placeholder"
+  }
+}
