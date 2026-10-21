@@ -1,3 +1,19 @@
+## New login and protected dashboard source — 21 October 2026
+
+These are **new independent showcase screens**, not the original/client product or a verified production release. The images below are vector **illustrative previews**, not live-session screenshots.
+
+![Login screen UI preview](assets/screenshots/login.svg)
+
+![Dashboard UI preview](assets/screenshots/dashboard.svg)
+
+**Source features:** Book search and catalog; demo basket and order records; per-user D1 persistence; account administration; server-gated login and admin interface, Turnstile verification and scoped D1-backed session/workspace foundation.
+
+**Not implemented:** No real payment processing, stock reservation, tax, addresses, shipping or order fulfillment.
+
+See [security implementation, deployment and acceptance checklist](docs/APP_SECURITY_AND_SETUP.md) and [database schema](schema.sql). Requires Cloudflare staging configuration and security verification before serving real accounts.
+
+---
+
 # Online Book Store — public portfolio showcase
 
 ## Technical documentation (current audit)
